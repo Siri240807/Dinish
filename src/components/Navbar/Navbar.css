@@ -1,0 +1,21 @@
+.navbar {
+  background-color: lightblue;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 120px;
+}
+
+.navbar-menu li {
+  list-style: none;
+  margin-right: 20px;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+}
